@@ -1,2 +1,2 @@
 # QIElab
-Code for bell state coincidence counting of entangled photons in UC Berkeley Physics 111B lab. 
+Numerical data analysis of results from quantum interference and entanglement experiment measuring results of entangled photon coincident counts 
